@@ -57,5 +57,11 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "dotty": "^0.1.0",
+    "omit": "^1.0.1",
+    "redux-actions": "^2.6.5",
+    "reselect": "^4.0.0"
+  }
 }
