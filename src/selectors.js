@@ -37,5 +37,5 @@ export const getBooleanValue = createSelector(
 export const createBooleanSelector = key =>
   createSelector(
     getBooleanState,
-    state => Boolean(get(state, key))
+    state => Boolean(get(state, [key]))
   );
