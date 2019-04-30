@@ -4,7 +4,7 @@
   "description": "Simple boolean Redux integration",
   "author": "bryandbor",
   "license": "MIT",
-  "repository": "bryandbor/redux-booleans",
+  "repository": "https://github.com/bryandbor/redux-booleans",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
