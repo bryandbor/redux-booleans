@@ -1,6 +1,6 @@
 {
   "name": "@bryandbor/redux-booleans",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple boolean Redux integration",
   "author": "bryandbor",
   "license": "MIT",
