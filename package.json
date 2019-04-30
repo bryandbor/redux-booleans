@@ -1,6 +1,6 @@
 {
   "name": "redux-booleans",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Simple boolean Redux integration",
   "author": "bryandbor",
   "license": "MIT",
